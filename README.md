@@ -1,3 +1,0 @@
-# lw
-hello world
-!
